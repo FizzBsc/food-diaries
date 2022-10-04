@@ -1,6 +1,5 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import logo from './logo.svg';
 import './App.css';
 import Navbar from "./Components/Navbar";
 import Card from "./Components/Card";
